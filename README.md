@@ -1,4 +1,5 @@
 ### Junior Cloud Engineer, DevOps Engineer
+Fail Fast and leverage
 
 ### Interest
 - DevOps
