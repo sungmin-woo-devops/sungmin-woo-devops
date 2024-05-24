@@ -1,5 +1,4 @@
 ### Junior Cloud Engineer, DevOps Engineer
-Fail Fast
 
 ### Interest
 - DevOps
