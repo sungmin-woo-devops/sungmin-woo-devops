@@ -20,3 +20,5 @@ Question & Action
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
+![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin-woo-devops&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin-woo-devops&layout=compact&theme=radical)
