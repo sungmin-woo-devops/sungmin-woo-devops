@@ -1,22 +1,32 @@
-### About Me
-Junior Cloud & DevOps Engineer.  
-Infrastructure as Code, CI/CD, and Cloud Security Compliance enthusiast.  
-Currently focusing on automation, scalability, and cloud-native best practices.
+# Hi there, I'm Sungmin 👋
 
-### Certifications
+**Aspiring DevOps & Backend Engineer**  
+Infra → ML Serving → Backend Development
+
+---
+## 🚀 About Me
+- 🌐 Passionate about **Cloud Infrastructure, DevOps, and MLOps**
+- 🛠 Skilled in **Kubernetes, Ansible, Terraform, FastAPI**
+- 📦 Building **scalable backend services** & **ML model serving pipelines**
+- 📊 Interested in **Observability** & **Infra automation**
+
+## 📌 Current Focus
+1. **Infrastructure Automation** with Ansible & Terraform  
+2. **ML Model Serving** for computer vision & RAG-based applications  
+3. **Backend Development** with FastAPI & microservices architecture
+
+## 📂 Featured Projects
+- **Proxy101** – Nginx, HAProxy, Squid, Jaeger proxy configurations & best practices
+- **AWS Diagram Object Detection** – YOLO-based AWS architecture diagram parsing tool
+- **Mini-RAG** – FastAPI + Qdrant + OpenAI embeddings for large document Q&A
+
+### 📜 Certifications
 - AWS Certified Solutions Architect – Associate
 - Red Hat Certified System Administrator (RHCSA)
 - 정보처리산업기사
 - 네트워크관리사 2급
 
-### Interest
-- DevOps
-- IaC
-- CI/CD
-- ISO 27001, 27701, 27017, 27018
-- ISMS-P, CSAP
-
-### Technical Stacks
+### 🛠 Technical Stacks
 <!-- Language / Scripting -->
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
