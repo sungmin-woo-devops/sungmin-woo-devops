@@ -1,5 +1,13 @@
-### Junior Cloud Engineer, DevOps Engineer
-Question & Action
+### About Me
+Junior Cloud & DevOps Engineer.  
+Infrastructure as Code, CI/CD, and Cloud Security Compliance enthusiast.  
+Currently focusing on automation, scalability, and cloud-native best practices.
+
+### 📜 Certifications
+- AWS Certified Solutions Architect – Associate
+- Red Hat Certified System Administrator (RHCSA)
+- 정보처리산업기사
+- 네트워크관리사 2급
 
 ### Interest
 - DevOps
@@ -9,18 +17,33 @@ Question & Action
 - ISMS-P, CSAP
 
 ### Technical Stacks
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+<!-- Language / Scripting -->
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-![Red Hat](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<!-- Operating Systems -->
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
+![CentOS 7](https://img.shields.io/badge/CentOS_7-262577?style=flat-square&logo=centos&logoColor=white)
+![CentOS Stream 9](https://img.shields.io/badge/CentOS_Stream_9-262577?style=flat-square&logo=centos&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Armbian](https://img.shields.io/badge/Armbian-FF6F00?style=flat-square&logo=arm&logoColor=white)
+
+<!-- IaC / Automation -->
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-5C5ECC?style=flat-square&logo=terraform&logoColor=white)
+
+<!-- Container / Orchestration -->
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+<!-- Cloud Platforms -->
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+
 
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin-woo-devops&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin-woo-devops&layout=compact&theme=radical)
+[![Sungmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungmin-woo-devops&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
