@@ -3,7 +3,7 @@ Junior Cloud & DevOps Engineer.
 Infrastructure as Code, CI/CD, and Cloud Security Compliance enthusiast.  
 Currently focusing on automation, scalability, and cloud-native best practices.
 
-### 📜 Certifications
+### Certifications
 - AWS Certified Solutions Architect – Associate
 - Red Hat Certified System Administrator (RHCSA)
 - 정보처리산업기사
