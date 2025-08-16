@@ -1,6 +1,5 @@
 # Hi there, I'm Sungmin 👋
 
-**Aspiring DevOps & Backend Engineer**
 on the journey to becoming a DevOps & Backend Engineer
 
 ---
