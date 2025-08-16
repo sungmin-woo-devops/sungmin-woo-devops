@@ -32,11 +32,15 @@ on the journey to becoming a DevOps & Backend Engineer
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 <!-- Operating Systems -->
+![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![CentOS 7](https://img.shields.io/badge/CentOS_7-262577?style=flat-square&logo=centos&logoColor=white)
 ![CentOS Stream 9](https://img.shields.io/badge/CentOS_Stream_9-262577?style=flat-square&logo=centos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Armbian](https://img.shields.io/badge/Armbian-FF6F00?style=flat-square&logo=arm&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)
+
 
 <!-- IaC / Automation -->
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
