@@ -1,31 +1,33 @@
-# Hi there, I'm Sungmin 👋
+# 안녕하세요! 👋
 
-on the journey to becoming a DevOps & Backend Engineer
+DevOps & 백엔드 엔지니어에서 **MLOps 엔지니어**로 성장하기 위한 여정을 걷고 있습니다.  
+저는 AGI가 결국 **엔지니어링 문제**라고 생각하며, AI와 인프라를 잇는 융합형 인재를 목표로 합니다.  
 
 ---
-## 🚀 About Me
-- 🌐 Passionate about **Cloud Infrastructure, DevOps, and MLOps**
-- 🛠 Skilled in **Kubernetes, Ansible, Terraform, FastAPI**
-- 📦 Building **scalable backend services** & **ML model serving pipelines**
-- 📊 Interested in **Observability** & **Infra automation**
+## 🚀 소개
+- 🌐 **클라우드 인프라, DevOps, MLOps**에 열정을 가지고 있습니다.  
+- 🛠 **Kubernetes, Ansible, Terraform, FastAPI** 활용에 능숙합니다.  
+- 📦 **확장 가능한 백엔드 서비스**와 **ML 모델 서빙 파이프라인**을 구축합니다.  
+- 📊 **Observability**와 **인프라 자동화**에 관심이 있습니다.  
 
-## 📌 Current Focus
-1. **Infrastructure Automation** with Ansible & Terraform  
-2. **ML Model Serving** for computer vision & RAG-based applications  
-3. **Backend Development** with FastAPI & microservices architecture
+## 📌 현재 집중하는 분야
+1. **실험 추적** – MLflow, Weights & Biases 활용  
+2. **모델 서빙 학습** – Kubeflow, BentoML 기반 서빙 아키텍처  
+3. **모델 최적화** – LoRA, PEFT, 양자화 기법 연구  
+4. **자격증 학습** – AWS MLS (Machine Learning Specialty) 준비  
 
-## 📂 Featured Projects
-- **Proxy101** – Nginx, HAProxy, Squid, Jaeger proxy configurations & best practices
-- **AWS Diagram Object Detection** – YOLO-based AWS architecture diagram parsing tool
-- **Mini-RAG** – FastAPI + Qdrant + OpenAI embeddings for large document Q&A
+## 📂 주요 프로젝트
+- **Proxy101** – Nginx, HAProxy, Squid, Jaeger 프록시 설정 및 모범사례 정리  
+- **AWS Diagram Object Detection** – YOLO 기반 AWS 아키텍처 다이어그램 파싱 툴  
+- **Mini-RAG** – FastAPI + Qdrant + OpenAI 임베딩 기반 대규모 문서 Q&A  
 
-### 📜 Certifications
-- AWS Certified Solutions Architect – Associate
-- Red Hat Certified System Administrator (RHCSA)
+### 📜 자격증
+- AWS 공인 솔루션스 아키텍트 – 어소시에이트
+- Red Hat 공인 시스템 관리자 (RHCSA)
 - 정보처리산업기사
 - 네트워크관리사 2급
 
-### 🛠 Technical Stacks
+
 <!-- Language / Scripting -->
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
