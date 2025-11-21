@@ -1,11 +1,11 @@
-# 👋 안녕하세요
+# 안녕하세요
 
-## 소개
+## 👋 소개
 - **클라우드 인프라, DevOps, MLOps**에 열정을 가지고 있습니다.  
 - **Kubernetes, Ansible, Terraform, FastAPI** 활용에 능숙합니다.  
 - **확장 가능한 백엔드 서비스**와 **ML 모델 서빙 파이프라인**을 구축합니다.
 
-## 기술 스택
+## 🔨 기술 스택
 ![Python](https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/Bash_Script-0A66C2?style=flat-square&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-0A66C2?style=flat-square&logo=powershell&logoColor=white)
@@ -32,7 +32,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0A66C2?style=flat-square&logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0A66C2?style=flat-square&logo=microsoftazure&logoColor=white)
 
-## 주요 프로젝트
+## 📌 주요 프로젝트
 - [RedFin LLM News](https://github.com/team-spark-code)
   → AI 산업 뉴스를 RAG 기반 질의응답과 뉴스 자동 출간 기능을 제공하는 서비스
   → LangChain(RAG), Elasticsearch
@@ -48,17 +48,17 @@
 - [수원시 버스 노선 시각화 시스템](https://github.com/sungmin-woo-devops/hit-bus-project)
   → Seaborn, Folium, Flask, Streamlit
 
-### 자격증
+## 자격증
 - AWS 공인 솔루션스 아키텍트 – 어소시에이트
 - Red Hat 공인 시스템 관리자 (RHCSA)
 - 정보처리산업기사
 - 네트워크관리사 2급
 
-## 📌 현재 집중하는 분야
-1. **실험 추적** – MLflow, Weights & Biases 활용  
-2. **모델 서빙 학습** – Kubeflow, BentoML 기반 서빙 아키텍처  
-3. **모델 최적화** – LoRA, PEFT, 양자화 기법 연구  
-4. **자격증 학습** – AWS MLS (Machine Learning Specialty) 준비  
+## 현재 집중하는 분야
+1. 실험 추적 – MLflow, Weights & Biases 활용  
+2. 모델 서빙 학습 – Kubeflow, BentoML 기반 서빙 아키텍처  
+3. 모델 최적화 – LoRA, PEFT, 양자화 기법 연구  
+4. 자격증 학습 – AWS MLS (Machine Learning Specialty) 준비  
 
 <!-- 
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin-woo-devops&show_icons=true&theme=react)
