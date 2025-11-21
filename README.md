@@ -31,7 +31,6 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-0A66C2?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-0A66C2?style=flat-square&logo=googlecloud&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0A66C2?style=flat-square&logo=microsoftazure&logoColor=white)
-![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin-woo-devops&show_icons=true&theme=react)
 
 ## 주요 프로젝트
 - [RedFin LLM News](https://github.com/team-spark-code)
@@ -62,6 +61,7 @@
 4. **자격증 학습** – AWS MLS (Machine Learning Specialty) 준비  
 
 <!-- 
+![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin-woo-devops&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin-woo-devops&layout=compact&theme=react)
 ![Sungmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungmin-woo-devops&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
