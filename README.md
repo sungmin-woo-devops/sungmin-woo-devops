@@ -33,11 +33,6 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0A66C2?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Sungmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungmin-woo-devops&show_icons=true&theme=react)
 
-<!-- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin-woo-devops&layout=compact&theme=react)
-![Sungmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungmin-woo-devops&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
--->
-
 ## 주요 프로젝트
 - [RedFin LLM News](https://github.com/team-spark-code)
   → AI 산업 뉴스를 RAG 기반 질의응답과 뉴스 자동 출간 기능을 제공하는 서비스
@@ -48,7 +43,7 @@
 - [Nureong-I](https://github.com/Project-Nureong-i)
   → LangChain(RAG)
 - [Solmakase](https://github.com/sungmin-woo-devops/sol_final_proj_02)
-  →
+  → 
 - [Learning Mate](https://github.com/sungmin-woo-devops/sol-learning-mate-project)
   → 
 - [수원시 버스 노선 시각화 시스템](https://github.com/sungmin-woo-devops/hit-bus-project)
@@ -66,4 +61,7 @@
 3. **모델 최적화** – LoRA, PEFT, 양자화 기법 연구  
 4. **자격증 학습** – AWS MLS (Machine Learning Specialty) 준비  
 
-
+<!-- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin-woo-devops&layout=compact&theme=react)
+![Sungmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungmin-woo-devops&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
