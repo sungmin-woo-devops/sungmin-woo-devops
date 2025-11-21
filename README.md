@@ -1,20 +1,11 @@
-# 안녕하세요! 👋
-
-DevOps & 백엔드 엔지니어에서 **MLOps 엔지니어**로 성장하기 위한 여정을 걷고 있습니다.  
-
-저는 **AGI의 발전에는 모델 혁신과 함께 이를 안정적·확장 가능하게 만드는 엔지니어링적 접근이 똑같이 중요**하다고 생각합니다.  
-
-AI와 인프라의 두 영역을 연결하는 **융합형 MLOps 엔지니어**로 성장하여, 
-
-모델의 성능이 실제 비즈니스와 사회적 가치로 이어지도록 기여하고자 합니다.  
-
+# 👋 안녕하세요
 
 ---
-## 🚀 소개
-- 🌐 **클라우드 인프라, DevOps, MLOps**에 열정을 가지고 있습니다.  
-- 🛠 **Kubernetes, Ansible, Terraform, FastAPI** 활용에 능숙합니다.  
-- 📦 **확장 가능한 백엔드 서비스**와 **ML 모델 서빙 파이프라인**을 구축합니다.  
-- 📊 **Observability**와 **인프라 자동화**에 관심이 있습니다.  
+## 💁 소개
+- **클라우드 인프라, DevOps, MLOps**에 열정을 가지고 있습니다.  
+- **Kubernetes, Ansible, Terraform, FastAPI** 활용에 능숙합니다.  
+- **확장 가능한 백엔드 서비스**와 **ML 모델 서빙 파이프라인**을 구축합니다.  
+- **Observability**와 **인프라 자동화**에 관심이 있습니다.  
 
 ## 📌 현재 집중하는 분야
 1. **실험 추적** – MLflow, Weights & Biases 활용  
@@ -40,15 +31,11 @@ AI와 인프라의 두 영역을 연결하는 **융합형 MLOps 엔지니어**�
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
 <!-- Operating Systems -->
-![RHEL](https://img.shields.io/badge/RHEL-EE0000?style=flat-square&logo=redhat&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![CentOS 7](https://img.shields.io/badge/CentOS_7-262577?style=flat-square&logo=centos&logoColor=white)
-![CentOS Stream 9](https://img.shields.io/badge/CentOS_Stream_9-262577?style=flat-square&logo=centos&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS_7-262577?style=flat-square&logo=centos&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Armbian](https://img.shields.io/badge/Armbian-FF6F00?style=flat-square&logo=arm&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat-square&logo=alpinelinux&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![WSL2](https://img.shields.io/badge/WSL2-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
 
 <!-- Container Runtime & Virtualization -->
