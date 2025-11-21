@@ -1,6 +1,6 @@
 # 👋 안녕하세요
 
-## 💁 소개
+## 소개
 - **클라우드 인프라, DevOps, MLOps**에 열정을 가지고 있습니다.  
 - **Kubernetes, Ansible, Terraform, FastAPI** 활용에 능숙합니다.  
 - **확장 가능한 백엔드 서비스**와 **ML 모델 서빙 파이프라인**을 구축합니다.
@@ -43,12 +43,23 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin-woo-devops&layout=compact&theme=radical)
 [![Sungmin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sungmin-woo-devops&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📂 주요 프로젝트
-- **Proxy101** – Nginx, HAProxy, Squid, Jaeger 프록시 설정 및 모범사례 정리  
-- **AWS Diagram Object Detection** – YOLO 기반 AWS 아키텍처 다이어그램 파싱 툴  
-- **Mini-RAG** – FastAPI + Qdrant + OpenAI 임베딩 기반 대규모 문서 Q&A  
+## 주요 프로젝트
+- [RedFin LLM News](https://github.com/team-spark-code)
+  → AI 산업 뉴스를 RAG 기반 질의응답과 뉴스 자동 출간 기능을 제공하는 서비스
+  → LangChain(RAG), Elasticsearch
+- [ArchLens](https://github.com/sungmin-woo-devops/hit-aws-object-detection-project)
+  → AWS 다이어그램에서 시스템 아키텍처 인사이트를 추출하는 서비스
+  → YOLOv8, LangChain(RAG), Gradio
+- [Nureong-I](https://github.com/Project-Nureong-i)
+  → LangChain(RAG)
+- [Solmakase](https://github.com/sungmin-woo-devops/sol_final_proj_02)
+  →
+- [Learning Mate](https://github.com/sungmin-woo-devops/sol-learning-mate-project)
+  → 
+- [수원시 버스 노선 시각화 시스템](https://github.com/sungmin-woo-devops/hit-bus-project)
+  → Seaborn, Folium, Flask, Streamlit
 
-### 📜 자격증
+### 자격증
 - AWS 공인 솔루션스 아키텍트 – 어소시에이트
 - Red Hat 공인 시스템 관리자 (RHCSA)
 - 정보처리산업기사
