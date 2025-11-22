@@ -1,9 +1,9 @@
 # 안녕하세요
 
 ## 👋 소개
-- **클라우드 인프라, DevOps, MLOps**에 열정을 가지고 있습니다.  
-- **Kubernetes, Ansible, Terraform, FastAPI** 활용에 능숙합니다.  
-- **확장 가능한 백엔드 서비스**와 **ML 모델 서빙 파이프라인**을 구축합니다.
+- 파이썬 기반 AI·백엔드 개발을 학습하며 LLM 기반 서비스 구현에 집중하고 있는 취업 준비생입니다.
+- LLM 기반 기능을 설계하고 구현하는 데 관심이 있으며, 관련 기술을 꾸준히 탐구하고 있습니다.
+- 프로젝트를 통해 데이터 수집 및 처리, 임베딩, 벡터 검색, API 개발 등 LLM 서비스의 전 과정을 직접 경험했습니다.
 
 ## 🔨 기술 스택
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
