@@ -32,20 +32,24 @@
 
 
 ## 📌 주요 프로젝트
-- [RedFin LLM News](https://github.com/team-spark-code)
-  → AI 산업 뉴스를 RAG 기반 질의응답과 뉴스 자동 출간 기능을 제공하는 서비스
-  → LangChain(RAG), Elasticsearch
-- [ArchLens](https://github.com/sungmin-woo-devops/hit-aws-object-detection-project)
-  → AWS 다이어그램에서 시스템 아키텍처 인사이트를 추출하는 서비스
-  → YOLOv8, LangChain(RAG), Gradio
-- [Nureong-I](https://github.com/Project-Nureong-i)
-  → LangChain(RAG)
-- [Solmakase](https://github.com/sungmin-woo-devops/sol_final_proj_02)
-  → 
-- [Learning Mate](https://github.com/sungmin-woo-devops/sol-learning-mate-project)
-  → 
-- [수원시 버스 노선 시각화 시스템](https://github.com/sungmin-woo-devops/hit-bus-project)
-  → Seaborn, Folium, Flask, Streamlit
+- [RedFin LLM News](https://github.com/team-spark-code)<br>
+  AI 뉴스 RAG 질의응답 및 뉴스 출간 백엔드 서비스<br>
+  Stack: FastAPI, LangChain, Elasticsearch, RAG Pipeline<br>
+- [ArchLens](https://github.com/sungmin-woo-devops/hit-aws-object-detection-project)<br>
+  AWS 다이어그램에서 아이콘을 탐지하고 구성 인사이트를 제공하는 서비스<br>
+  Stack: YOLOv8, LangChain, Gradio<br>
+- [Nureong-I](https://github.com/Project-Nureong-i)<br>
+  문서 기반 요약·질의응답 기능을 제공하는 LLM·RAG 학습 지원 서비스<br>
+  Stack: LangChain, Qdrant/Chroma, FastAPI<br>
+- [Solmakase](https://github.com/sungmin-woo-devops/sol_final_proj_02)<br>
+  요구사항을 분석해 최적 인프라 구조와 IaC PoC를 자동 생성하는 솔루션<br>
+  Stack: Python, Embeddings, Terraform, Ansible, AWS, Streamlit<br>
+- [CyCOP](https://github.com/sungminwoo0612/milab_cycop.git)<br>
+  보안 취약점을 그래프로 모델링하고 GNN 기반으로 관계를 분석하는 시스템<br>
+  Stack: PyTorch Geometric, NetworkX/Neo4j<br>
+- [수원시 버스 노선 시각화 시스템](https://github.com/sungmin-woo-devops/hit-bus-project)<br>
+  공공데이터 기반 버스 노선·정류장 시각화 서비스<br>
+  Stack: Seaborn, Folium, Flask, Streamlit
 
 ## 자격증
 - AWS 공인 솔루션스 아키텍트 – 어소시에이트
